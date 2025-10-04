@@ -13,5 +13,5 @@ A simple Python app to track team performance—just wins and losses.
 
 ```bash
 python helloworld.py
-predictions.json
 
+Ensure predictions.json is in the same folder as helloworld.py.
