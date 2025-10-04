@@ -1,0 +1,23 @@
+{
+    "Heath": {
+        "Wildcard Round": [
+            "Tigers",
+            "Red Sox",
+            "Padres",
+            "Dodgers"
+        ],
+        "Divisional Round": [
+            "Tigers",
+            "Blue Jays",
+            "Padres",
+            "Phillies"
+        ],
+        "Conference Finals": [
+            "Tigers",
+            "Padres"
+        ],
+        "World Series": [
+            "Tigers"
+        ]
+    }
+}
